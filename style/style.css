@@ -1,0 +1,130 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+nav{
+    margin-top: 0px;
+    box-shadow: 1px;
+    background-color: rgb(223, 223, 223);
+    padding: 8px 0px;
+    border-bottom: 3px;
+    box-shadow: 1px;
+}
+.nav{
+    
+    float: right;
+    padding: 3px 15px;
+    padding-left: 10px;
+    border: none;
+    background-color: rgb(223, 223, 223);
+  
+}
+#logo{
+    background-color: rgb(223, 223, 223);
+    margin-left: 5px;
+    padding: 3px 18px;
+    border: none;
+   }
+   .slider-heading{
+    position: absolute;
+    top: 35%;
+    left: 45%;
+    transform: translate(-50%,-50%);
+   }
+   span{
+    background-color: black;
+    color: white;
+    padding: 2px 4px 2px 6px;
+   }
+   
+  img{
+    height: 400px;
+    margin-top: 0px;
+    width: 97%;
+   }
+   .col img{
+        height: 200px;
+        width: 250px;
+        
+   }
+   .last-3{
+    margin-left: 21px;
+   
+   }
+   .summer-house{
+    position: absolute;
+    top: 12%;
+    left: 6.3%;
+    transform: translate(-50%,-50%);
+   }
+   .summer-house-2{
+    position: absolute;
+    top: 12%;
+    left: 30.5%;
+    transform: translate(-50%,-50%);
+   }
+   .summer-house-3{
+    position: absolute;
+    top: 12%;
+    left: 54.5%;
+    transform: translate(-50%,-50%);
+   }
+   .summer-house-4{
+    position: absolute;
+    top: 12%;
+    left: 78.8%;
+    transform: translate(-50%,-50%);
+   }
+   
+
+   #project{
+    margin-top: 50px;
+
+   }
+   #about{
+    margin-top: 50px;
+    
+   }
+   .cards img{
+    width: 237px;
+    padding-bottom: 5px;
+    
+    
+   }
+   
+   .card-btn {
+    width: 100%;
+   }
+
+   #contact{
+          margin-top: 50px;
+   }
+   input{
+    display: inline-block;
+    box-sizing: border-box;
+    width: 98.5%;
+   }
+   #email{
+          margin: 10px 0px;
+   }
+   #comment{
+    margin: 10px 0px;
+   }
+   #input-btn{
+    background-color: black;
+    color: white;
+
+   }
+   #map{
+    margin-top: 50px;
+   }
+   footer{
+    padding: 14px 0px 8px 0px;
+    margin-top: 10px;
+    color: white;
+    text-align: center;
+    background-color: black;
+   }
+   
+   
